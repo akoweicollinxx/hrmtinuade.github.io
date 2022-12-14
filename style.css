@@ -384,7 +384,7 @@ input[type="submit"]:hover{
         left: 40%;
     }
     /* top### */
-    .landing-text {
+    .landingg-text {
         position: absolute;
         top: 1300px;
         left: 50%;
@@ -393,10 +393,10 @@ input[type="submit"]:hover{
         text-align: center;
         z-index: 1;
     }
-    .landing-text h1 {
+    .landingg-text h1 {
         font-size: 7rem;
     }
-    .landing-text p {
+    .landingg-text p {
         font-size: 3rem;
         font-weight: 300;
         line-height: 40px;
@@ -500,13 +500,13 @@ input[type="submit"]:hover{
     .top-image img{
         width: 50%;
     }
-    .landing-text{
+    .landingg-text{
         width: 50%;
         position: relative;
-        top: -280px;
-        margin-left: 300px;
+        top: -550px;
+       
     }
-    .landing-text p{
+    .landingg-text p{
         font-size: 2.5rem;
     }
     /* project##### */
